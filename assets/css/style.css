@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px;
+    overflow:auto;
+}
+
+body{
+    background-color:#fffcb2;
+}
+
+#topBanner{
+    padding:15px;
+    width:885px;
+    margin:0px auto;
+    background-color:#7abcff;
+    font-size:24pt;
+    font-weight:bold;
+}
+
+#topBanner > div {
+    width:50%;
+    float:left;
+}
+
+#topBanner div div{
+    font-weight:normal;
+}
+
+#gems{
+    width:900px;
+    margin:0px auto;
+    text-align:center;
+}
+
+#gemsCenter{
+    margin:0px auto;
+    width:50%;
+    display:block;
+}
+
+.gem{
+    width:25%;
+    float:left;
+}
+
+.gem img{
+    width:75%;
+    margin:15px;
+}
